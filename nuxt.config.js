@@ -95,4 +95,9 @@ export default {
   server: {
     port: 8000 // default: 3000
   },
+
+  routeRules: {
+    // Use client-side rendering for all routes
+    '/**': { ssr: false },
+  },
 }
