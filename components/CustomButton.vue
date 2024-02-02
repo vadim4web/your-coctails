@@ -70,21 +70,14 @@ button:not(.details-button) {
 .button {
   border-left: 1px solid cyan;
   border-right: 1px solid rgb(255, 0, 191);
-
   border-top: 1px solid transparent;
   border-bottom: 1px solid transparent;
-
   position: relative;
-
   font-size: inherit;
-
   color: transparent;
-
   background: linear-gradient(45deg, cyan, violet);
-
   z-index: 0;
   transform: scaleY(1.05);
-
   border-radius: 0.5rem;
 }
 

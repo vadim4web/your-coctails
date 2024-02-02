@@ -7,7 +7,6 @@
 
 <script>
 import SearchResult from '~/components/SearchResult.vue';
-// import MyList from '~/components/MyList.vue';
 
 export default {
   name: 'IndexPage',
@@ -29,5 +28,4 @@ export default {
   flex-grow: 1;
   flex-direction: column;
 }
-
 </style>

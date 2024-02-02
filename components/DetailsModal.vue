@@ -4,16 +4,13 @@
       <h2 class="item-card__title">{{ cocktail.strDrink }}</h2>
       <div class="cocktail-details">
 
-
       <img :src="cocktail.strDrinkThumb" :alt="cocktail.strDrink" class="cocktail-image" />
-
 
       <div class="main-info">
         <p><strong>Category:</strong> {{ cocktail.strCategory }}</p>
         <p><strong>Glass:</strong> {{ cocktail.strGlass }}</p>
         <p><strong>Alcoholic:</strong> {{ cocktail.strAlcoholic }}</p>
       </div>
-
 
       <div class="recipe">
         <div class="ingredients">
@@ -135,7 +132,6 @@ export default {
 }
 
 @media (orientation: landscape) {
-
   .cocktail-image {
     display: block;
     max-width: 25vw;

@@ -157,7 +157,6 @@ export default {
 .input input {
   border: 2px solid #b8b8b8;
   border-radius: 0.5rem;
-
 }
 
 input:-webkit-autofill,

@@ -5,17 +5,10 @@
       <img class="logo-image" src="./../assets/favicon.png" alt="">
     </div>
     <footer>
-      &copy; 2023 Your-cocktail made with Nuxt by Vadym @vadymche Chervoniak
+      &copy; {{ new Date().getFullYear() }} Your-cocktail made with Nuxt by Bogdanov 8ogdanovv Vadim
     </footer>
   </div>
 </template>
-
-<script>
-// import YourCoctail from '~/assets/'
-  export default {
-
-  }
-</script>
 
 <style scoped>
   .page {

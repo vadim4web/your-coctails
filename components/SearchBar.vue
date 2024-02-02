@@ -304,7 +304,6 @@ export default {
 </script>
 
 <style>
-
 .images {
   opacity: 0.3;
   position: fixed;

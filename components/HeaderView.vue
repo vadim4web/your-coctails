@@ -59,7 +59,6 @@ export default {
 </script>
 
 <style>
-
 header {
   z-index: 100;
   background: black;
@@ -114,5 +113,4 @@ header {
   display: flex;
   gap: 1rem;
 }
-
 </style>

@@ -43,11 +43,8 @@ import IconLinks from './IconLinks.vue';
   display: flex;
   flex-direction: column;
   align-items: center;
-
   background-color: white;
-
   position: relative;
-
   background-repeat: no-repeat;
   background-position:
     left top,

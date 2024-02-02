@@ -1,28 +1,18 @@
 <template>
-  <div class="icon-links" :style="iconLinksStyle">
-    <a href="https://www.linkedin.com/in/vadym4che/" target="_blank" rel="noopener noreferrer">
+  <div class="icon-links">
+    <a href="https://www.linkedin.com/in/bogdanovvad1m/" target="_blank" rel="noopener noreferrer">
       <img src="./../assets/linkedin40x40.svg" alt="my linkedin link">
     </a>
-    <a href="https://github.com/vadym4che/" target="_blank" rel="noopener noreferrer">
+    <a href="https://github.com/8ogdanovv/" target="_blank" rel="noopener noreferrer">
       <img src="./../assets/github40x40.svg" alt="my git-hub link">
     </a>
-    <a href="https://www.facebook.com/vadym4che/" target="_blank" rel="noopener noreferrer">
+    <a href="https://www.facebook.com/bogdanovvad1m/" target="_blank" rel="noopener noreferrer">
       <img src="./../assets/facebook40x40.svg" alt="my facebook link">
     </a>
   </div>
 </template>
 
-<script>
-  export default {
-    data() {
-      return {
-      };
-    },
-  }
-</script>
-
 <style>
-
 .icon-links {
   position: fixed;
   bottom: 1rem;
@@ -43,5 +33,4 @@
     align-items: flex-end;
   }
 }
-
 </style>

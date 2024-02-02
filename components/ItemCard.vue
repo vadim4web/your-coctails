@@ -34,7 +34,6 @@ export default {
 </script>
 
 <style>
-
 .item-card {
   background-color: white;
   border-radius: 4px;
@@ -50,11 +49,9 @@ export default {
   text-align: center;
   line-break: auto;
   font-weight: bold;
-
   color: white;
   text-shadow: 0 0 10px black;
   background-color: black;
-
   border-radius: 0.25rem;
   padding: 1px 2px 3px;
   border-left: 1px solid cyan;
@@ -73,7 +70,6 @@ export default {
   background-position: center;
   background-size: cover;
   background-blend-mode: multiply;
-
   display: block;
   width: 30vh;
   height: 25vh;
@@ -88,7 +84,6 @@ export default {
   align-items: center;
   width: 100%;
   position: relative;
-
   z-index: 0;
 }
 
