@@ -1,5 +1,3 @@
-QTQaSi6GMHDTSRL0R9Me96M7
-
 # your-cocktail
 
 ## Build Setup
