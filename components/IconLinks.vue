@@ -1,12 +1,12 @@
 <template>
   <div class="icon-links">
-    <a href="https://www.linkedin.com/in/bogdanovvad1m/" target="_blank" rel="noopener noreferrer">
+    <a href="https://www.linkedin.com/in/vadim4web/" target="_blank" rel="noopener noreferrer">
       <img src="./../assets/linkedin40x40.svg" alt="my linkedin link">
     </a>
-    <a href="https://github.com/8ogdanovv/" target="_blank" rel="noopener noreferrer">
+    <a href="https://github.com/vadim4web/" target="_blank" rel="noopener noreferrer">
       <img src="./../assets/github40x40.svg" alt="my git-hub link">
     </a>
-    <a href="https://www.facebook.com/bogdanovvad1m/" target="_blank" rel="noopener noreferrer">
+    <a href="https://www.facebook.com/vadim4web/" target="_blank" rel="noopener noreferrer">
       <img src="./../assets/facebook40x40.svg" alt="my facebook link">
     </a>
   </div>
